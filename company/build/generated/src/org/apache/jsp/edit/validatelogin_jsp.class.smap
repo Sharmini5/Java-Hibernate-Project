@@ -1,0 +1,16 @@
+SMAP
+validatelogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 validatelogin.jsp
+edit/validatelogin.jsp
+*L
+1,4:47
+4:50,9
+4,2:56
+5,2:59
+6:60,2
+7,19:62
+25:81,2
+*E

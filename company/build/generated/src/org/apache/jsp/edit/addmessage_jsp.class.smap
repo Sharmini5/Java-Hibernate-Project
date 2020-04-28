@@ -1,0 +1,16 @@
+SMAP
+addmessage_jsp.java
+JSP
+*S JSP
+*F
++ 0 addmessage.jsp
+edit/addmessage.jsp
+*L
+1,4:46
+4:49,9
+4,2:55
+5,2:58
+6:59,2
+7,6:61
+12,3:67
+*E

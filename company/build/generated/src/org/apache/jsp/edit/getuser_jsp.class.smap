@@ -1,0 +1,17 @@
+SMAP
+getuser_jsp.java
+JSP
+*S JSP
+*F
++ 0 getuser.jsp
+edit/getuser.jsp
+*L
+1,11:47
+12,2:59
+13,2:61
+15,11:63,3
+26:96,30
+27,2:126
+29,2:129
+30,86:131
+*E
